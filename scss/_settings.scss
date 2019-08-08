@@ -1,0 +1,13 @@
+$textBaseColor: #333;
+$baseColor: #ebb94d;
+$bgColor: #fef5e0;
+$bgBlue: #016ea9;
+
+.whiteBox {
+  width: 90%;
+  background: #fff;
+  border: 2px solid $baseColor;
+  border-radius: 4px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
