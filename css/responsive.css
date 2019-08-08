@@ -1,0 +1,605 @@
+/* こちらは模写コーディングのコードです。  本家のサイトはこちらをご参照ください。  「iSara[イサラ] | バンコクのノマドエンジニア育成講座」https://isara.life/ */
+
+@media (max-width: 1190px) {
+  header .header-wrapper .header-left .header-paragraph {
+    font-size: 12px;
+  }
+  header .header-wrapper .header-right .header-btn {
+    font-size: 12px;
+  }
+
+  .top-wrapper {
+    height: 100%;
+  }
+  .top-wrapper .container-fluid .top-wrapper-heading {
+    font-size: 24px;
+  }
+  .top-wrapper .container-fluid h1 {
+    font-size: 16px;
+  }
+
+  .rejume-wrapper span {
+    font-size: 14.4px;
+  }
+  .rejume-wrapper p {
+    font-size: 16px;
+  }
+  .rejume-wrapper .rejume-wrapper-text1 {
+    margin-bottom: 10px;
+  }
+  .rejume-wrapper .rejume-wrapper-btn {
+    font-size: 18px;
+    padding: 25px 50px;
+    max-width: 85%;
+    margin: 10px auto;
+  }
+  .rejume-wrapper .rejume-wrapper-text2 p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+
+  .heading {
+    font-size: 24px;
+    width: calc(100% - 40px);
+  }
+
+  .get-freedom-wrapper p {
+    font-size: 16px;
+  }
+
+  .about-wrapper .about-sentense {
+    font-size: 16px;
+  }
+
+  .step-wrapper .step-wrapper-sentense h2 {
+    font-size: 24px;
+  }
+  .step-wrapper .step-wrapper-sentense p {
+    font-size: 16px;
+  }
+  .step-wrapper .step-wrapper-boxes {
+    display: block;
+  }
+  .step-wrapper .step-wrapper-boxes .step-wrapper-box {
+    display: block;
+    margin: 0 auto 20px;
+    width: 40%;
+  }
+  .step-wrapper .step-wrapper-boxes .step-wrapper-box .step, .step-wrapper .step-wrapper-boxes .step-wrapper-box .content {
+    font-size: 14px;
+  }
+  .step-wrapper .step-wrapper-boxes .step-wrapper-box .ready {
+    font-size: 12px;
+  }
+
+  .second-step-wrapper {
+    font-size: 16px;
+  }
+
+  .merit1-wrapper h2 {
+    font-size: 24px;
+  }
+  .merit1-wrapper h2 span {
+    font-size: 14px;
+  }
+  .merit1-wrapper .merit1-wrapper-sentense1 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .merit1-wrapper .merit1-wrapper-box img {
+    width: 180px;
+  }
+  .merit1-wrapper .merit1-wrapper-sentense2 {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+
+  .merit-main-wrapper h2 span {
+    font-size: 16px;
+  }
+  .merit-main-wrapper .merit-main-wrapper-boxes .merit-main-wrapper-box b {
+    font-size: 16px;
+    text-align: center;
+  }
+  .merit-main-wrapper .merit-main-wrapper-boxes .merit-main-wrapper-box p {
+    font-size: 14px;
+  }
+  .merit-main-wrapper .support-box .support-box-sentense1 {
+    font-size: 24px;
+  }
+  .merit-main-wrapper .support-box .support-box-sentense2 {
+    font-size: 16px;
+  }
+  .merit-main-wrapper .support-box .support-box-sentense3 {
+    font-size: 14px;
+  }
+  .merit-main-wrapper .merit-main-wrapper-box-bottom-sentense {
+    font-size: 12px;
+  }
+
+  .member-wrapper .member-wrapper-top-txt {
+    font-size: 14px;
+  }
+
+  .qanda-wrapper .qanda-top-wrapper .heading {
+    font-size: 18px;
+  }
+
+  .study-contents-wrapper h2 {
+    font-size: 24px;
+  }
+  .study-contents-wrapper p {
+    font-size: 14px;
+  }
+  .study-contents-wrapper .study-boxes {
+    width: 780px;
+    padding: 30px 10%;
+  }
+  .study-contents-wrapper .study-boxes .study-box .study-box-wrap .study-box-title p {
+    font-size: 16px;
+  }
+  .study-contents-wrapper .study-boxes .study-box .study-box-wrap ul li {
+    font-size: 14px;
+  }
+
+  .study-flow-wrapper h2 {
+    font-size: 24px;
+  }
+  .study-flow-wrapper > img {
+    width: 100%;
+    padding: 0 20px;
+  }
+  .study-flow-wrapper .study-flow-wrapper-flow-boxes .container .study-flow-wrapper-flow-box .study-flow-wrapper-flow-box-right p {
+    font-size: 14px;
+  }
+  .study-flow-wrapper .study-flow-wrapper-flow-boxes .container .study-flow-wrapper-flow-box .study-flow-wrapper-flow-box-right .long-text {
+    font-size: 12px;
+    line-height: 1.5em;
+  }
+
+  .why-bangkok-wrapper .why-bangkok-sentenses p {
+    font-size: 14px;
+  }
+  .why-bangkok-wrapper .why-bangkok-sentenses .text1 {
+    font-size: 12px;
+  }
+  .why-bangkok-wrapper .why-bangkok-bottom-text {
+    font-size: 16px !important;
+  }
+  .why-bangkok-wrapper .why-bangkok-wrapper-list {
+    margin: 20px 0;
+  }
+
+  .present-wrapper h2 {
+    font-size: 24px;
+  }
+  .present-wrapper > p {
+    font-size: 14px;
+  }
+  .present-wrapper .present-wrapper-sentense {
+    font-size: 24px;
+  }
+
+  .volunteer-wrapper .volunteer-wrapper-text1 {
+    font-size: 24px;
+  }
+  .volunteer-wrapper .volunteer-wrapper-text2 {
+    font-size: 16px;
+  }
+
+  .developer-message-wrapper h2 {
+    font-size: 24px;
+  }
+  .developer-message-wrapper b {
+    font-size: 16px;
+  }
+
+  #contact_form_wrapper h2 {
+    font-size: 24px;
+  }
+  #contact_form_wrapper p {
+    font-size: 14px;
+  }
+
+  .question-wrapper .panel-group {
+    width: 90%;
+  }
+  .question-wrapper .panel-group .panel .question-accordion-box-heading h4 a {
+    font-size: 16px;
+  }
+  .question-wrapper .panel-group .panel .panel-collapse p {
+    font-size: 14px;
+  }
+}
+@media (max-width: 768px) {
+  .brsp {
+    display: block;
+  }
+
+  header {
+    height: auto;
+  }
+  header .header-wrapper {
+    display: none;
+  }
+  header .sp-header-wrapper {
+    display: block;
+  }
+
+  .top-wrapper {
+    height: 100%;
+  }
+  .top-wrapper .container-fluid {
+    background-image: url(../img/mainsp.jpg);
+    margin-top: auto;
+  }
+  .top-wrapper .container-fluid .top-wrapper-logo {
+    max-width: 315px;
+    width: 100%;
+  }
+  .top-wrapper .container-fluid .top-wrapper-heading {
+    font-size: 18px;
+  }
+  .top-wrapper .container-fluid h1 {
+    font-size: 15px;
+  }
+
+  .rejume-wrapper span {
+    font-size: 13.5px;
+  }
+  .rejume-wrapper p {
+    font-size: 15px;
+  }
+  .rejume-wrapper .rejume-wrapper-text1 {
+    margin-bottom: 10px;
+  }
+  .rejume-wrapper .rejume-wrapper-btn {
+    font-size: 20px;
+    padding: 25px 50px;
+    max-width: 85%;
+    margin: 10px auto;
+    border-radius: 100px;
+  }
+  .rejume-wrapper .rejume-wrapper-text2 {
+    padding-bottom: 0;
+  }
+  .rejume-wrapper .rejume-wrapper-text2 p {
+    line-height: 1.5em;
+    font-size: 15px;
+    margin-bottom: 30px;
+  }
+
+  .heading {
+    font-size: 18px;
+    width: calc(100% - 40px);
+  }
+
+  .get-freedom-wrapper p {
+    font-size: 15px;
+  }
+
+  .about-wrapper .about-wrapper-box {
+    width: 60px;
+    height: 60px;
+    bottom: 30px;
+  }
+  .about-wrapper .about-wrapper-box .about-circle {
+    font-size: 12px;
+    line-height: 60px;
+  }
+  .about-wrapper .about-sentense {
+    font-size: 15px;
+    padding: 0;
+    margin-bottom: 10px;
+  }
+  .about-wrapper .about-wrapper-skills .about-wrapper-five-skills .about-wrapper-five-skill img {
+    height: 30px;
+    width: auto;
+  }
+  .about-wrapper .about-wrapper-skills .about-wrapper-five-skills .about-wrapper-five-skill p {
+    font-size: 10px;
+    margin: 0;
+  }
+
+  .step-wrapper {
+    background-image: url(../img/aboutsecondbgsp.jpg);
+  }
+  .step-wrapper .step-wrapper-sentense h2 {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  .step-wrapper .step-wrapper-sentense p {
+    font-size: 13px;
+  }
+  .step-wrapper .step-wrapper-boxes {
+    display: block;
+  }
+  .step-wrapper .step-wrapper-boxes .step-wrapper-box {
+    display: block;
+    margin: 0 auto 15px;
+    padding: 15px 50px;
+    width: 90%;
+  }
+  .step-wrapper .step-wrapper-boxes .step-wrapper-box .step, .step-wrapper .step-wrapper-boxes .step-wrapper-box .content {
+    font-size: 14px;
+  }
+  .step-wrapper .step-wrapper-boxes .step-wrapper-box .step {
+    margin-bottom: 10px;
+  }
+  .step-wrapper .step-wrapper-boxes .step-wrapper-box .ready {
+    font-size: 12px;
+    margin: 15px 0 5px;
+  }
+
+  .second-step-wrapper {
+    font-size: 12px;
+    padding: 20px 0;
+  }
+
+  .merit1-wrapper {
+    padding: 20px 0;
+  }
+  .merit1-wrapper h2 {
+    font-size: 18px;
+  }
+  .merit1-wrapper h2 span {
+    font-size: 12px;
+  }
+  .merit1-wrapper .merit1-wrapper-sentense1 {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  .merit1-wrapper .merit1-wrapper-box {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  .merit1-wrapper .merit1-wrapper-box img {
+    max-width: 120px;
+    width: 100%;
+    padding: 10px;
+  }
+  .merit1-wrapper .merit1-wrapper-sentense2 {
+    font-size: 12px;
+    margin: 10px 0;
+  }
+
+  .merit-main-wrapper {
+    padding: 30px 0;
+  }
+  .merit-main-wrapper h2 span {
+    font-size: 15px;
+  }
+  .merit-main-wrapper .merit-main-wrapper-boxes {
+    display: block;
+  }
+  .merit-main-wrapper .merit-main-wrapper-boxes .merit-main-wrapper-box {
+    width: 100%;
+  }
+  .merit-main-wrapper .merit-main-wrapper-boxes .merit-main-wrapper-box img {
+    height: 120px;
+    overflow: hidden;
+  }
+  .merit-main-wrapper .merit-main-wrapper-boxes .merit-main-wrapper-box b {
+    font-size: 15px;
+    text-align: center;
+  }
+  .merit-main-wrapper .merit-main-wrapper-boxes .merit-main-wrapper-box p {
+    font-size: 12px;
+  }
+  .merit-main-wrapper .support-box .support-box-sentense1 {
+    font-size: 18px;
+  }
+  .merit-main-wrapper .support-box .support-box-sentense2 {
+    font-size: 15px;
+  }
+  .merit-main-wrapper .support-box .support-box-sentense3 {
+    font-size: 10px;
+  }
+  .merit-main-wrapper .merit-main-wrapper-box-bottom-sentense {
+    font-size: 12px;
+  }
+
+  .member-wrapper {
+    background-image: url(../img/teacherbgsp.jpg);
+  }
+  .member-wrapper h2 {
+    font-size: 18px;
+  }
+  .member-wrapper .member-wrapper-top-txt {
+    font-size: 12px;
+  }
+  .member-wrapper .container {
+    max-width: 100%;
+  }
+  .member-wrapper .container .row .member-wrapper-box img {
+    width: 120px;
+    height: 120px;
+  }
+  .member-wrapper .container .row .member-wrapper-box .member-wrapper-txt {
+    font-size: 12px;
+    padding: 40px 10px 10px;
+  }
+
+  .qanda-wrapper .qanda-top-wrapper {
+    padding: 20px 0;
+  }
+  .qanda-wrapper .qanda-top-wrapper p {
+    font-size: 12px;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+  }
+  .qanda-wrapper .qanda-top-wrapper .heading {
+    font-size: 14px;
+  }
+  .qanda-wrapper .qanda-top-wrapper .hukidashi-parent .hukidashi {
+    top: 70px;
+  }
+  .qanda-wrapper .qanda-wrapper-answer .qanda-wrapper-answer-text1 {
+    font-size: 18px;
+  }
+  .qanda-wrapper .qanda-wrapper-answer .qanda-wrapper-answer-text2 {
+    font-size: 12px;
+  }
+
+  .container {
+    margin: 0 auto;
+    max-width: 768px;
+    width: 100%;
+  }
+
+  .study-contents-wrapper {
+    background-image: url(../img/classbgsp.jpg);
+    padding: 20px 0;
+  }
+  .study-contents-wrapper h2 {
+    font-size: 18px;
+  }
+  .study-contents-wrapper p {
+    font-size: 12px;
+  }
+  .study-contents-wrapper .study-boxes {
+    max-width: 780px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 10px;
+  }
+  .study-contents-wrapper .study-boxes .study-box {
+    width: 100%;
+    margin: 0 auto 15px;
+  }
+  .study-contents-wrapper .study-boxes .study-box .study-box-wrap {
+    margin: 0 auto;
+  }
+  .study-contents-wrapper .study-boxes .study-box .study-box-wrap .study-box-title p {
+    font-size: 15px;
+  }
+  .study-contents-wrapper .study-boxes .study-box .study-box-wrap ul li {
+    font-size: 12px;
+  }
+
+  .study-flow-wrapper {
+    padding: 20px 0;
+  }
+  .study-flow-wrapper h2 {
+    font-size: 18px;
+  }
+  .study-flow-wrapper img {
+    display: none;
+  }
+  .study-flow-wrapper .study-flow-wrapper-flow-boxes {
+    display: none;
+  }
+
+  .sp-study-flow-wrapper {
+    display: block;
+  }
+
+  .why-bangkok-wrapper {
+    background-image: url(../img/bangkokbgsp.jpg);
+    padding: 20px 15px;
+  }
+  .why-bangkok-wrapper .why-bangkok-sentenses h2 {
+    text-align: center;
+  }
+  .why-bangkok-wrapper .why-bangkok-sentenses p {
+    font-size: 12px;
+  }
+  .why-bangkok-wrapper .why-bangkok-sentenses .text1 {
+    font-size: 12px;
+  }
+  .why-bangkok-wrapper .why-bangkok-bottom-text {
+    font-size: 15px !important;
+  }
+  .why-bangkok-wrapper .why-bangkok-wrapper-list {
+    margin: 20px 0;
+  }
+
+  .present-wrapper {
+    padding: 20px;
+  }
+  .present-wrapper h2 {
+    font-size: 18px;
+    margin: 0 0 20px;
+  }
+  .present-wrapper > p {
+    font-size: 12px;
+    margin-bottom: 10px;
+  }
+  .present-wrapper .present-wrapper-sentense {
+    font-size: 18px;
+  }
+  .present-wrapper .present-wrapper-boxes {
+    padding: 30px;
+  }
+  .present-wrapper .present-wrapper-boxes .row {
+    display: none;
+  }
+  .present-wrapper .present-wrapper-boxes .sp-present-wrapper-box {
+    display: block;
+  }
+
+  .volunteer-wrapper .volunteer-wrapper-text1 {
+    font-size: 18px;
+  }
+  .volunteer-wrapper .volunteer-wrapper-text2 {
+    font-size: 12px;
+  }
+
+  .developer-message-wrapper {
+    padding: 20px 0;
+  }
+  .developer-message-wrapper h2 {
+    font-size: 18px;
+  }
+  .developer-message-wrapper b {
+    font-size: 15px;
+  }
+
+  #contact_form_wrapper {
+    padding: 20px;
+  }
+  #contact_form_wrapper h2 {
+    font-size: 18px;
+  }
+  #contact_form_wrapper p {
+    font-size: 12px;
+  }
+  #contact_form_wrapper .contact-form {
+    width: 100%;
+  }
+
+  .question-wrapper {
+    padding: 20px 15px;
+  }
+  .question-wrapper h2 {
+    font-size: 18px;
+  }
+  .question-wrapper .panel-group {
+    width: 100%;
+  }
+  .question-wrapper .panel-group .panel .question-accordion-box-heading h4 a {
+    font-size: 15px;
+  }
+  .question-wrapper .panel-group .panel .panel-collapse p {
+    font-size: 12px;
+  }
+
+  footer {
+    padding: 20px 15px 0;
+  }
+  footer p {
+    margin: 0;
+  }
+
+  .page-top {
+    bottom: 20px;
+    right: 10px;
+  }
+  .page-top .fa-chevron-up {
+    padding: 15px;
+    font-size: 14px;
+  }
+}
